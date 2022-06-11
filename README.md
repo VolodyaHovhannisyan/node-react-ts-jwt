@@ -1,3 +1,3 @@
 # node-react-ts-jwt
 
-This is Full stack React/Node.js projects which implements jwt authentication strategy.
+This is a Full stack React/Node.js project which implements jwt authentication strategy.
